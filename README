@@ -1,0 +1,20 @@
+This Java-based system simulates a grocery store. Key classes include:
+
+Sale: Manages customer purchases and discounts during checkout.
+Product: Represents store products with stock tracking.
+Inventory: Handles product management and retrieval.
+GroceryStoreApp: Main application for loading products and processing customers.
+Customer: Represents a customer with name validation.
+Cart: Manages customer shopping carts.
+
+Compile Java files.
+Run GroceryStoreApp.
+Input customer count and follow prompts.
+
+Products loaded from ProductList.txt.
+Apply discounts during checkout.
+Recursive processing for multiple customers
+
+Available discounts:
+15Off
+winterSale
