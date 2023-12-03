@@ -1,0 +1,47 @@
+Apple 1.0 50
+Banana 0.75 30
+Milk 2.5 20
+Bread 1.8 25
+Eggs 1.5 40
+Cheese 3.0 15
+Chicken 5.0 10
+Tomato 0.9 35
+Potato 0.5 50
+Orange Juice 2.2 15
+Pasta 1.2 30
+Rice 1.5 40
+Salmon 7.0 8
+Broccoli 1.2 20
+Cereal 3.5 25
+Coffee 4.0 15
+Tea Bags 2.0 30
+Sugar 1.0 40
+Salt 0.5 50
+Pepper 1.0 40
+Olive Oil 3.5 20
+Yogurt 2.0 30
+Ice Cream 4.5 12
+Carrots 0.8 35
+Lettuce 1.2 30
+Onion 0.7 40
+Garlic 0.5 45
+Ground Beef 6.0 15
+Chicken Breast 4.5 18
+Applesauce 2.0 25
+Peanut Butter 3.0 20
+Jelly 2.5 20
+Bacon 5.0 15
+Ham 4.0 18
+Sausages 3.5 20
+Frozen Pizza 3.8 12
+Toothpaste 2.0 30
+Shampoo 3.5 25
+Soap 1.5 40
+Toilet Paper 1.0 50
+Laundry Detergent 4.0 15
+Dish Soap 1.5 35
+Paper Towels 2.0 30
+Bottled Water 1.0 40
+Soda 1.5 35
+Chips 2.0 25
+Chocolate 1.8 30
